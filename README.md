@@ -3,7 +3,7 @@
 **Project Odin** is a Facebook Chatbot that can do **Neural Style Transfer**
 
 ## What is Neural Style Transfer ?
-Neural Style Transfer is an algorithm using **Deep Learning** to **"repaint"** an image to a given style.
+Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repaint"** an image refer to a given style.
 <div align='center'>
 <img src = 'thumbs/result.jpg' width="900px">
 </div>
