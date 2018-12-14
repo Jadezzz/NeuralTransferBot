@@ -11,7 +11,7 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 ### [Watch demo videos on YouTube!](https://www.youtube.com/playlist?list=PLyrtJ1CjyyOPmKlV7Yck4STTHBChEGosH)
 
 ## Neural Style Transfer System
-<img src = 'thumbs/Neural_Style_Transfer_System.jpg' width="900px">
+<img src = 'thumbs/Neural_Style_Transfer_System.JPG' width="900px">
 
 
 
