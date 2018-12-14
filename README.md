@@ -6,7 +6,7 @@
 Neural Style Transfer is an algorithm using **Deep Learning** to **"repaint"** an image to a given style.
 ### Given Image
 <div align='center'>
-<img src = 'thumbs/101.jpg' width="490px">
+<img src = 'thumbs/101.jpg' width="250px">
 </div>
 
 ### Repainted Images
