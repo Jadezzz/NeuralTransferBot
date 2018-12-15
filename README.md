@@ -13,7 +13,8 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 ## Neural Style Transfer System
 <img src = 'thumbs/Neural_Style_Transfer_System.JPG' width="900px">
 
-
+## Image Generation
+<img src = 'thumbs/image_generation.gif' width="900px">
 
 
 
