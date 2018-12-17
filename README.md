@@ -33,6 +33,13 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 - About : Send a link to this repo to user
 
 ### Conditions
+- is_going_to_Welcome : Check if the user sent the magic word **Hi**
+- is_going_to_Transfer ： If the user hit **Start!** button from welcome screen
+- is_going_to_Style : Check if the user entered the right index of style images (must be 1~5)
+- is_going_to_Image : Check if the user uploaded an image to transfer
+- is_going_to_About : If the user hit **About** button from welcome screen
+- is_going_to_Examples : If the user hit **Examples** button from welcome screen
+
 
 ## Reference
 - Great Explanation of [Artistic Style Transfer with Deep Neural Networks](https://shafeentejani.github.io/2016-12-27/style-transfer/)
