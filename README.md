@@ -19,6 +19,9 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 ## System Framework
 <img src = 'thumbs/system.JPG' width="900px">
 
+## FSM Graph
+<img src = 'fsm.png' width="900px">
+
 ## Reference
 - Great Explanation of [Artistic Style Transfer with Deep Neural Networks](https://shafeentejani.github.io/2016-12-27/style-transfer/)
 - Original Paper : [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
