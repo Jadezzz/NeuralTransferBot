@@ -9,6 +9,8 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 </div>
 
 ### [Watch demo videos on YouTube!](https://www.youtube.com/playlist?list=PLyrtJ1CjyyOPmKlV7Yck4STTHBChEGosH)
+## Screenshots
+<img src = 'https://j.gifs.com/mQBm4G.gif'>
 
 ## System Framework
 <img src = 'thumbs/system.JPG' width="900px">
