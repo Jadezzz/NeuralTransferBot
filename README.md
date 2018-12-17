@@ -1,4 +1,5 @@
-<img src = 'thumbs/icon.png'>
+<img src = 'thumbs/icon.png' width="100px">
+
 # Project Odin
 ## What is Project Odin ?
 **Project Odin** is a Facebook Chatbot that can do **Neural Style Transfer**
