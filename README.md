@@ -10,14 +10,14 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 
 ### [Watch demo videos on YouTube!](https://www.youtube.com/playlist?list=PLyrtJ1CjyyOPmKlV7Yck4STTHBChEGosH)
 
+## System Framework
+<img src = 'thumbs/system.JPG' width="900px">
+
 ## Neural Style Transfer System
 <img src = 'thumbs/Neural_Style_Transfer_System.JPG' width="900px">
 
 ## Image Generation
 <img src = 'thumbs/image_generation.gif' width="900px">
-
-## System Framework
-<img src = 'thumbs/system.JPG' width="900px">
 
 ## FSM Graph
 <img src = 'fsm.png' width="900px">
