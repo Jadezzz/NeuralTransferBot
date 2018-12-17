@@ -21,6 +21,7 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 
 ## FSM Graph
 <img src = 'fsm.png' width="900px">
+
 ### States
 - Init : Initial state
 - Welcome : Send Welcome template to user
