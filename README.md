@@ -1,4 +1,4 @@
-<img src = 'thumbs/icon.png' width="100px">
+<img src = 'thumbs/icon.png' width="100px"> <img src = 'thumbs/banner.png' height = "100px">
 
 # Project Odin
 ## What is Project Odin ?
