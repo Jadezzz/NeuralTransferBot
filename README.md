@@ -13,7 +13,7 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 <img src = 'https://j.gifs.com/mQBm4G.gif'>
 
 ## System Framework
-<img src = 'thumbs/system.JPG' width="900px">
+<img src = 'thumbs/system.JPG' width="900px"> 
 
 ## Neural Style Transfer System
 <img src = 'thumbs/Neural_Style_Transfer_System.JPG' width="900px">
@@ -22,7 +22,7 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 <img src = 'thumbs/image_generation.gif' width="900px">
 
 ## FSM Graph
-<img src = 'fsm.png' width="900px">
+<img src = 'fsm.png' width="900px"> <img src = 'https://j.gifs.com/N9PgwD.gif'>  <img src = 'https://j.gifs.com/JqLMwJ.gif'> 
 
 ### States
 - Init : Initial state
