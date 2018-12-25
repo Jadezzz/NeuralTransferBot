@@ -19,6 +19,11 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 <img src = 'thumbs/system.JPG' width="900px"> 
 
 ## Neural Style Transfer System
+
+### Fast Neural Style
+<img src = 'thumbs/fast_neural_style.png' width="900px">
+
+### Loss Network(We use VGG-19 instead of VGG16)
 <img src = 'thumbs/Neural_Style_Transfer_System.JPG' width="900px">
 
 ## Image Generation
