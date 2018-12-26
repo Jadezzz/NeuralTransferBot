@@ -53,7 +53,7 @@ Neural Style Transfer is an algorithm using **Deep Learning Model** to **"repain
 ## Reference
 - Great Explanation of [Artistic Style Transfer with Deep Neural Networks](https://shafeentejani.github.io/2016-12-27/style-transfer/)
 - Original Paper : [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf)
-- Amazing code from [lengstrom](https://github.com/lengstrom/fast-style-transfer)
+- from [lengstrom](https://github.com/lengstrom/fast-style-transfer)
 
 ### Citation
 ```
